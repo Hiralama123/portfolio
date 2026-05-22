@@ -1,6 +1,6 @@
 # Hira Lama — Portfolio 🌐
 
-Live at: https://hiralama123.github.io
+Live at: https://hiralama123.github.io/portfolio/
 
 ## About
 Entry-level IT professional and multilingual communicator (English, Nepali, 
@@ -46,7 +46,7 @@ Documentation project with troubleshooting flowcharts.
 - Validated registration form
 
 ## Contact
-- 📧 hira.lama@bhcc.edu
+- 📧 lamadong628@gmail.com
 - 📞 781-526-0535
 - 📍 Somerville, MA
 - 💼 linkedin.com/in/hira-lama
